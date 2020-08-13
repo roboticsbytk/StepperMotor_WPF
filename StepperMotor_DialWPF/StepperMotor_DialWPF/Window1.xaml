@@ -1,0 +1,26 @@
+﻿<!--
+Created by (roboticsbytk) using SharpDevelop
+Website: roboticsbytk.blogspot.com
+
+Summary: This sets up the design of the window, it uses the interface defined in UserControl1
+to display on the main Window. The width and height of the window are fixed/
+-->
+
+<Window x:Class="StepperMotor_DialWPF.Window1"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:StepperMotor_DialWPF"
+	
+	Title="StepperMotor_DialWPF" Width="800"
+	Height="700"
+	MinHeight="700"
+	MinWidth="800"
+	MaxHeight="700"
+	MaxWidth="800">
+	<Grid>
+		<local:UserControl1
+			
+			HorizontalAlignment="Center"
+			VerticalAlignment="Center" />
+	</Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\bin\Debug\StepperMotor_DialWPF.exe
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\bin\Debug\StepperMotor_DialWPF.pdb
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\StepperMotor_DialWPF.csprojResolveAssemblyReference.cache
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\UserControl1.baml
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\UserControl1.g.cs
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\Window1.g.cs
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\App.g.cs
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\StepperMotor_DialWPF_MarkupCompile.cache
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\StepperMotor_DialWPF_MarkupCompile.lref
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\Window1.baml
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\StepperMotor_DialWPF.g.resources
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\StepperMotor_DialWPF.exe
+C:\Users\lenovo.000\Documents\SharpDevelop Projects\StepperMotor_DialWPF\StepperMotor_DialWPF\obj\Debug\StepperMotor_DialWPF.pdb
